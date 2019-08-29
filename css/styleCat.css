@@ -41,6 +41,10 @@ img{
     margin: auto;
 }
 
+#logo img{
+    height: 50px;
+}
+
 #tabla1Novela{
     margin: auto;
     border: #F2355B 5px solid;
